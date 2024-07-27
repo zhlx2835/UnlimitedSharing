@@ -9,9 +9,6 @@
 *   [在线杀毒](https://www.eqishare.com/softwaretool/882.html)
 *   [失效催更留言](https://www.eqishare.com/messagebook.html)
 
-*   [](https://www.eqishare.com/post.html)
-*   [](about:blank#navbar-search "站内搜索")
-
 [![后厂村路灯](https://www.eqishare.com/zb_users/theme/rongkeji/image/zavatar.png)](https://www.eqishare.com/post.html)
 
 后厂村路灯
